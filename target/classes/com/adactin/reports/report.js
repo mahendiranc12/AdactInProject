@@ -86,7 +86,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 623296,
+  "duration": 4782673,
   "status": "passed"
 });
 formatter.background({
@@ -125,7 +125,7 @@ formatter.match({
   "location": "AdactinStepDef.user_able_to_launch_the_application()"
 });
 formatter.result({
-  "duration": 2946833963,
+  "duration": 2208441048,
   "status": "passed"
 });
 formatter.match({
@@ -138,7 +138,7 @@ formatter.match({
   "location": "AdactinStepDef.user_enter_the_username_mahesathya_in_Login_Page(String)"
 });
 formatter.result({
-  "duration": 573904328,
+  "duration": 793824761,
   "status": "passed"
 });
 formatter.match({
@@ -151,14 +151,14 @@ formatter.match({
   "location": "AdactinStepDef.user_enter_the_password_in_Login_Page(String)"
 });
 formatter.result({
-  "duration": 264949519,
+  "duration": 529296640,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_Click_the_signin_Button_in_Login_Page()"
 });
 formatter.result({
-  "duration": 3364771136,
+  "duration": 6553746066,
   "status": "passed"
 });
 formatter.match({
@@ -171,7 +171,7 @@ formatter.match({
   "location": "AdactinStepDef.user_Verify_the_username_Hello_mahesathya_displayed_in_the_header(String)"
 });
 formatter.result({
-  "duration": 53506304,
+  "duration": 166256729,
   "status": "passed"
 });
 formatter.scenario({
@@ -238,28 +238,28 @@ formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_location()"
 });
 formatter.result({
-  "duration": 311399044,
+  "duration": 920110875,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_hotel()"
 });
 formatter.result({
-  "duration": 284698392,
+  "duration": 805989079,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_Room_type()"
 });
 formatter.result({
-  "duration": 278771362,
+  "duration": 769299151,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_Number_of_rooms()"
 });
 formatter.result({
-  "duration": 224349655,
+  "duration": 599942921,
   "status": "passed"
 });
 formatter.match({
@@ -272,7 +272,7 @@ formatter.match({
   "location": "AdactinStepDef.user_able_to_select_in_the_Checkin_date_box(String)"
 });
 formatter.result({
-  "duration": 548352767,
+  "duration": 1217128888,
   "status": "passed"
 });
 formatter.match({
@@ -285,25 +285,25 @@ formatter.match({
   "location": "AdactinStepDef.user_able_to_select_in_the_checkout_date_box(String)"
 });
 formatter.result({
-  "duration": 405755476,
+  "duration": 985885665,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_click_the_search_button()"
 });
 formatter.result({
-  "duration": 230923271,
+  "duration": 594154054,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_logout_the_application()"
 });
 formatter.result({
-  "duration": 1082811848,
+  "duration": 2032724367,
   "status": "passed"
 });
 formatter.after({
-  "duration": 962772,
+  "duration": 365529,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -390,7 +390,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 153159,
+  "duration": 195396,
   "status": "passed"
 });
 formatter.background({
@@ -429,7 +429,7 @@ formatter.match({
   "location": "AdactinStepDef.user_able_to_launch_the_application()"
 });
 formatter.result({
-  "duration": 704503477,
+  "duration": 706915574,
   "status": "passed"
 });
 formatter.match({
@@ -442,7 +442,7 @@ formatter.match({
   "location": "AdactinStepDef.user_enter_the_username_mahesathya_in_Login_Page(String)"
 });
 formatter.result({
-  "duration": 326863798,
+  "duration": 799412705,
   "status": "passed"
 });
 formatter.match({
@@ -455,14 +455,14 @@ formatter.match({
   "location": "AdactinStepDef.user_enter_the_password_in_Login_Page(String)"
 });
 formatter.result({
-  "duration": 266836378,
+  "duration": 735381089,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_Click_the_signin_Button_in_Login_Page()"
 });
 formatter.result({
-  "duration": 1538389119,
+  "duration": 5111196375,
   "status": "passed"
 });
 formatter.match({
@@ -475,7 +475,7 @@ formatter.match({
   "location": "AdactinStepDef.user_Verify_the_username_Hello_mahesathya_displayed_in_the_header(String)"
 });
 formatter.result({
-  "duration": 42068299,
+  "duration": 112489544,
   "status": "passed"
 });
 formatter.scenario({
@@ -552,28 +552,28 @@ formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_location()"
 });
 formatter.result({
-  "duration": 283089430,
+  "duration": 720172139,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_hotel()"
 });
 formatter.result({
-  "duration": 311445624,
+  "duration": 782637821,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_Room_type()"
 });
 formatter.result({
-  "duration": 269646537,
+  "duration": 904710870,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_Number_of_rooms()"
 });
 formatter.result({
-  "duration": 202110363,
+  "duration": 684290637,
   "status": "passed"
 });
 formatter.match({
@@ -586,7 +586,7 @@ formatter.match({
   "location": "AdactinStepDef.user_able_to_select_in_the_Checkin_date_box(String)"
 });
 formatter.result({
-  "duration": 401770175,
+  "duration": 948185596,
   "status": "passed"
 });
 formatter.match({
@@ -599,39 +599,39 @@ formatter.match({
   "location": "AdactinStepDef.user_able_to_select_in_the_checkout_date_box(String)"
 });
 formatter.result({
-  "duration": 381149713,
+  "duration": 944302140,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_select_the_adult_counts()"
 });
 formatter.result({
-  "duration": 369775658,
+  "duration": 661060169,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_click_the_search_button()"
 });
 formatter.result({
-  "duration": 1494835805,
+  "duration": 2281650378,
   "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_verify_the_hotelname_as_given()"
 });
 formatter.result({
-  "duration": 50006928,
-  "error_message": "org.junit.ComparisonFailure: expected:\u003cHotel []\u003e but was:\u003cHotel [Creek]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat com.adactin.stepdef.AdactinStepDef.user_able_to_verify_the_hotelname_as_given(AdactinStepDef.java:115)\r\n\tat ✽.Then User able to verify the hotelname as given(src/test/java/com/adactin/feature/Adactin.feature:38)\r\n",
-  "status": "failed"
+  "duration": 123637406,
+  "status": "passed"
 });
 formatter.match({
   "location": "AdactinStepDef.user_able_to_logout_the_application()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1313407631,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 745245448,
+  "duration": 709348,
   "status": "passed"
 });
 });
